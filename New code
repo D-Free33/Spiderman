@@ -17,6 +17,6 @@
        <div>
            <input type="text" placeholder = "Enter Spider-username">
            <button> sign up </button>
-            <input type = "text" placeholder = "Enter secert password">
+            <input type = "Password" placeholder = "Enter secert password">
       </div>
 </div> 
